@@ -1,0 +1,20 @@
+﻿  SpinningCube.cpp
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(13,22): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(20,48): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(24,66): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(28,51): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(31,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(31,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(31,17): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(32,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(32,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(32,17): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(33,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(33,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(33,17): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(35,39): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(36,24): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(37,11): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(65,11): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\SpinningCube.cpp(66,11): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  SpinningCube.vcxproj -> C:\Users\sugan\WINRESEARCHING\RESEARCH\SpinningCube\x64\Debug\SpinningCube.exe
